@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root xmlns="http://tempuri.org/medium.xsd">
+  <layer1 id="1" name="abc1" someFloat="1.0">
+    <layer2 id="1.1" name="def1" someFloat="1.1" someEnum="1"/>
+    <layer2 id="1.2" name="def2" someFloat="1.2" someEnum="2"/>
+  </layer1>
+  <layer1 id="2" name="abc2" someFloat="2.0" />
+</root>
