@@ -1,4 +1,5 @@
-﻿use spielplatz
+﻿-- erstellt mit hilfe einer xml-vorlage n-Datensätze mit xml-Daten
+use spielplatz
 
 delete from simple
 
